@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="myDatabaseModelStoreContainer" CdmEntityContainer="myDatabaseEntities">
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="myDatabaseModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="EmployeeNumber" ColumnName="EmployeeNumber" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Faults">
+      <EntityTypeMapping TypeName="myDatabaseModel.Fault">
+        <MappingFragment StoreEntitySet="Faults">
+          <ScalarProperty Name="FaultDescription" ColumnName="FaultDescription" />
+          <ScalarProperty Name="TypeofFault" ColumnName="TypeofFault" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="Logger" ColumnName="Logger" />
+          <ScalarProperty Name="Referencenumber" ColumnName="Referencenumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

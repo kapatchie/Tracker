@@ -1,0 +1,14 @@
+C:\Users\Lunartech\source\repos\Tracker.Domain\bin\Debug\Tracker.Domain.dll
+C:\Users\Lunartech\source\repos\Tracker.Domain\bin\Debug\Tracker.Domain.pdb
+C:\Users\Lunartech\source\repos\Tracker.Domain\obj\Debug\Tracker.Domain.csprojAssemblyReference.cache
+C:\Users\Lunartech\source\repos\Tracker.Domain\obj\Debug\Tracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lunartech\source\repos\Tracker.Domain\obj\Debug\Tracker.Domain.dll
+C:\Users\Lunartech\source\repos\Tracker.Domain\obj\Debug\Tracker.Domain.pdb
+C:\Users\Lunartech\source\repos\Tracker.Domain\bin\Debug\Tracker.DTO.dll
+C:\Users\Lunartech\source\repos\Tracker.Domain\bin\Debug\Tracker.Persistance.dll
+C:\Users\Lunartech\source\repos\Tracker.Domain\bin\Debug\Tracker.DTO.pdb
+C:\Users\Lunartech\source\repos\Tracker.Domain\bin\Debug\Tracker.Persistance.pdb
+C:\Users\Lunartech\source\repos\Tracker.Domain\bin\Debug\Tracker.Persistance.dll.config
+C:\Users\Lunartech\source\repos\Tracker.Domain\obj\Debug\Tracker.Domain.csproj.CopyComplete
+C:\Users\Lunartech\source\repos\Tracker.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Lunartech\source\repos\Tracker.Domain\bin\Debug\EntityFramework.xml

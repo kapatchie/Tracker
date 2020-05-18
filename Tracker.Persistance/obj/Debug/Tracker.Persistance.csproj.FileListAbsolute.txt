@@ -1,0 +1,12 @@
+C:\Users\Lunartech\source\repos\Tracker.Persistance\bin\Debug\Tracker.Persistance.dll.config
+C:\Users\Lunartech\source\repos\Tracker.Persistance\bin\Debug\Tracker.Persistance.dll
+C:\Users\Lunartech\source\repos\Tracker.Persistance\bin\Debug\Tracker.Persistance.pdb
+C:\Users\Lunartech\source\repos\Tracker.Persistance\bin\Debug\EntityFramework.dll
+C:\Users\Lunartech\source\repos\Tracker.Persistance\bin\Debug\EntityFramework.xml
+C:\Users\Lunartech\source\repos\Tracker.Persistance\obj\Debug\Tracker.Persistance.csprojAssemblyReference.cache
+C:\Users\Lunartech\source\repos\Tracker.Persistance\obj\Debug\Tracker.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Lunartech\source\repos\Tracker.Persistance\obj\Debug\Tracker.Persistance.csproj.CopyComplete
+C:\Users\Lunartech\source\repos\Tracker.Persistance\obj\Debug\Tracker.Persistance.dll
+C:\Users\Lunartech\source\repos\Tracker.Persistance\obj\Debug\Tracker.Persistance.pdb
+C:\Users\Lunartech\source\repos\Tracker.Persistance\bin\Debug\Tracker.DTO.dll
+C:\Users\Lunartech\source\repos\Tracker.Persistance\bin\Debug\Tracker.DTO.pdb

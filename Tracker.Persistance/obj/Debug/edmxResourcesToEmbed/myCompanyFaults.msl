@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="myDatabaseModel1StoreContainer" CdmEntityContainer="myDatabaseEntities1">
+    <EntitySetMapping Name="Faults">
+      <EntityTypeMapping TypeName="myDatabaseModel1.Fault">
+        <MappingFragment StoreEntitySet="Faults">
+          <ScalarProperty Name="Referencenumber" ColumnName="Referencenumber" />
+          <ScalarProperty Name="Logger" ColumnName="Logger" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="TypeofFault" ColumnName="TypeofFault" />
+          <ScalarProperty Name="FaultDescription" ColumnName="FaultDescription" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

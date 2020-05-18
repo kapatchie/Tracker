@@ -1,0 +1,6 @@
+C:\Users\Lunartech\source\repos\Tracker.DTO\bin\Debug\Tracker.DTO.dll
+C:\Users\Lunartech\source\repos\Tracker.DTO\bin\Debug\Tracker.DTO.pdb
+C:\Users\Lunartech\source\repos\Tracker.DTO\obj\Debug\Tracker.DTO.csprojAssemblyReference.cache
+C:\Users\Lunartech\source\repos\Tracker.DTO\obj\Debug\Tracker.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Lunartech\source\repos\Tracker.DTO\obj\Debug\Tracker.DTO.dll
+C:\Users\Lunartech\source\repos\Tracker.DTO\obj\Debug\Tracker.DTO.pdb
